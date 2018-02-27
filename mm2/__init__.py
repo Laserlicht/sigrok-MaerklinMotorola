@@ -1,6 +1,7 @@
 ##
 ## This file is part of the libsigrokdecode project.
 ##
+## I2C-Decoder: Copyright (C) 2010-2016 Uwe Hermann <uwe@hermann-uwe.de>
 ## Copyright (C) 2018 Michael Henzler (Laserlicht)
 ##
 ## This program is free software; you can redistribute it and/or modify
